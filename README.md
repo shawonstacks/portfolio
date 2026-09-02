@@ -1,6 +1,6 @@
 
 # Hi, I'm Mehedi Hasan 👋
-### Cloud & Infrastructure Engineer | VMware & Infrastructure Automation Specialist
+### Cloud & Infrastructure Engineer | VMware & Infrastructure Specialist
 
 ---
 
