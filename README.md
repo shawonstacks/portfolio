@@ -1,12 +1,6 @@
 # Hi, I'm Mehedi Hasan 👋
 ### Cloud & Infrastructure Engineer | VMware & Infrastructure Automation Specialist
 
-<p align="center">
-  <img src="আপনার_সঠিক_ডায়গ্রামের_বা_vSphere_এর_লিঙ্ক" alt="Architecture Diagram" width="800">
-</p>
-
-I am a Cloud & Infrastructure Engineer specializing in enterprise virtualization (VMware), infrastructure automation, load balancing, and high-availability monitoring systems.
-
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -26,7 +20,7 @@ I am a Cloud & Infrastructure Engineer specializing in enterprise virtualization
 * **Outcome:** Reduced manual VM provisioning and management time by over 80%.
 
 <p align="center">
-  <img src="আপনার_সঠিক_n8n_স্ক্রিনশট_এর_লিঙ্ক" alt="n8n Workflow Automation" width="800">
+  <img src="n8n.png" alt="n8n Workflow Automation" width="800">
 </p>
 
 #### 2. High-Availability Load Balancing with HAProxy & Nginx
@@ -35,23 +29,27 @@ I am a Cloud & Infrastructure Engineer specializing in enterprise virtualization
 * **Outcome:** Ensured zero-downtime traffic routing and seamless server failover.
 
 <p align="center">
-  <img src="আপনার_সঠিক_HAProxy_স্ক্রিনশট_এর_লিঙ্ক" alt="HAProxy Load Balancer" width="800">
+  <img src="haproxy.png" alt="HAProxy Load Balancer" width="800">
 </p>
-
+	
 #### 3. Enterprise Infrastructure Monitoring using Zabbix
 * **Overview:** Configured a centralized Zabbix monitoring server tracking 100+ hosts across the infrastructure.
 * **Key Tasks:** Monitored CPU utilization, system performance, host availability, and built custom dashboards.
 * **Outcome:** Enabled proactive problem detection.
 
 <p align="center">
-  <img src="আপনার_সঠিক_Zabbix_স্ক্রিনশট_এর_লিঙ্ক" alt="Zabbix Monitoring" width="800">
+  <img src="zabbix.png" alt="Zabbix Monitoring" width="800">
 </p>
-
+	
 #### 4. Enterprise VMware vSphere 8.0 Deployment
 * **Overview:** Designed and deployed scalable VMware clusters for high-availability production workloads.
 * **Key Tasks:** Configured vCenter Server, Distributed Switches (vDS), Shared Storage, vSphere HA, and DRS.
 
 ---
+
+### 📬 Connect with Me
+* **LinkedIn:** [আপনার লিঙ্কডইন লিঙ্ক]
+* **Email:** [আপনার ইমেইল]
 
 ### 📬 Connect with Me
 * **LinkedIn:** https://www.linkedin.com/in/mehedi-hasan-0b465125b
