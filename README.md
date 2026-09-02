@@ -1,4 +1,4 @@
-<img width="950" height="512" alt="n8n" src="https://github.com/user-attachments/assets/8e8c67ef-5067-4de4-8c7c-b7f22fd29f7c" />
+
 # Hi, I'm Mehedi Hasan 👋
 ### Cloud & Infrastructure Engineer | VMware & Infrastructure Automation Specialist
 
