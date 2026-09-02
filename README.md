@@ -20,37 +20,33 @@
 * **Key Tasks:** Integrated Telegram Trigger with vCenter REST APIs to automate VM lifecycle actions.
 * **Outcome:** Reduced manual VM provisioning and management time by over 80%.
 
-<p align="center">
-  <img src="n8n.png" alt="n8n Workflow Automation" width="800">
-</p>
+<img width="950" height="512" alt="n8n" src="https://github.com/user-attachments/assets/46b02ce4-d21f-49a9-bb8b-4641a1a37d4f" />
+
 
 #### 2. High-Availability Load Balancing with HAProxy & Nginx
 * **Overview:** Deployed and managed HAProxy as a Layer 7 load balancer for web application servers.
 * **Key Tasks:** Configured backend webserver clusters with automated health checks.
 * **Outcome:** Ensured zero-downtime traffic routing and seamless server failover.
 
-<p align="center">
-  <img src="haproxy.png" alt="HAProxy Load Balancer" width="800">
-</p>
+<img width="950" height="512" alt="n8n" src="https://github.com/user-attachments/assets/878f9ed2-bbd3-434f-ab21-54b57be28ee5" />
+
 	
 #### 3. Enterprise Infrastructure Monitoring using Zabbix
 * **Overview:** Configured a centralized Zabbix monitoring server tracking 100+ hosts across the infrastructure.
 * **Key Tasks:** Monitored CPU utilization, system performance, host availability, and built custom dashboards.
 * **Outcome:** Enabled proactive problem detection.
 
-<p align="center">
-  <img src="zabbix.png" alt="Zabbix Monitoring" width="800">
-</p>
+<img width="960" height="505" alt="Zabbix" src="https://github.com/user-attachments/assets/51630475-45ca-4560-a967-7c14d89103d3" />
+
 	
 #### 4. Enterprise VMware vSphere 8.0 Deployment
 * **Overview:** Designed and deployed scalable VMware clusters for high-availability production workloads.
 * **Key Tasks:** Configured vCenter Server, Distributed Switches (vDS), Shared Storage, vSphere HA, and DRS.
 
----
+<img width="959" height="507" alt="VCenter" src="https://github.com/user-attachments/assets/4a3524a4-2cd6-4a63-bf72-65441694648b" />
 
-### 📬 Connect with Me
-* **LinkedIn:** [আপনার লিঙ্কডইন লিঙ্ক]
-* **Email:** [আপনার ইমেইল]
+
+---
 
 ### 📬 Connect with Me
 * **LinkedIn:** https://www.linkedin.com/in/mehedi-hasan-0b465125b
