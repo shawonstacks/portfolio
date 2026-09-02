@@ -28,7 +28,8 @@
 * **Key Tasks:** Configured backend webserver clusters with automated health checks.
 * **Outcome:** Ensured zero-downtime traffic routing and seamless server failover.
 
-<img width="950" height="512" alt="n8n" src="https://github.com/user-attachments/assets/878f9ed2-bbd3-434f-ab21-54b57be28ee5" />
+<img width="960" height="506" alt="Haproxy" src="https://github.com/user-attachments/assets/4a77f962-83c2-472c-a6cb-1e4464e2a1d0" />
+
 
 	
 #### 3. Enterprise Infrastructure Monitoring using Zabbix
