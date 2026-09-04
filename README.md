@@ -22,14 +22,6 @@
 ![Firewall](https://img.shields.io/badge/Firewall-Network%20Security-E4405F?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ---
-
-### 📊 GitHub Analytics & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shawonstacks&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawonstacks&layout=compact&theme=radial" width="48%" />
-</p>
-
 ### 🚀 Key Projects & Implementations
 
 #### 1. Automated VMware Infrastructure Workflows via n8n & Telegram
