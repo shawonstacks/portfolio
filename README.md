@@ -23,6 +23,13 @@
 
 ---
 
+### 📊 GitHub Analytics & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shawonstacks&show_icons=true&theme=radial" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawonstacks&layout=compact&theme=radial" width="48%" />
+</p>
+
 ### 🚀 Key Projects & Implementations
 
 #### 1. Automated VMware Infrastructure Workflows via n8n & Telegram
@@ -59,6 +66,13 @@
 
 ---
 
-### 📬 Connect with Me
-* **LinkedIn:** https://www.linkedin.com/in/mehedi-hasan-0b465125b
-* **Email:** immehedihasans2200@gmail.com
+### 📬 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://github.com/shawonstacks/portfolio/blob/main/README.md">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehedi%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:immehedihasans2200@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
