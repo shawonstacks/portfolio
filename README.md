@@ -1,15 +1,25 @@
 
-# Hi, I'm Mehedi Hasan 👋
+# Hi, this is Mehedi Hasan 
 ### Cloud & Infrastructure Engineer | VMware & Infrastructure Specialist
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Virtualization & Cloud:** VMware vSphere (ESXi, vCenter), vSAN, VMware API Automation
-* **Automation & DevOps:** n8n Workflow Automation, Webhooks, REST APIs, PowerCLI, Bash
-* **Load Balancing & Web Servers:** HAProxy, Nginx Web Servers
-* **Monitoring & Observability:** Zabbix Enterprise Monitoring, Alerting & Metrics Analysis
-* **Backup & Security:** Veeam Backup & Replication, Firewall Management
+* **Virtualization & Cloud:**
+* ![VMware](https://img.shields.io/badge/VMware-vSphere%208.0-4682B4?style=for-the-badge&logo=vmware&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-RedHat%20%2F%20Ubuntu-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* **Automation & DevOps:**
+* ![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) 
+![Telegram](https://img.shields.io/badge/Telegram-ChatOps-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+* **Load Balancing & Web Servers:**
+* ![HAProxy](https://img.shields.io/badge/HAProxy-Load%20Balancer-000000?style=for-the-badge&logo=haproxy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?style=for-the-badge&logo=nginx&logoColor=white)
+* **Monitoring & Observability:**
+* ![Zabbix](https://img.shields.io/badge/Zabbix-Enterprise%20Monitoring-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+* **Backup & Security:**
+* ![Veeam](https://img.shields.io/badge/Veeam-Backup%20%26%20Replication-00B050?style=for-the-badge&logo=veeam&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-Network%20Security-E4405F?style=for-the-badge&logo=fortinet&logoColor=white)
 
 ---
 
